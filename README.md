@@ -36,7 +36,6 @@ My journey in my food selector app startup has led me to develop a passion for C
 
 ## Certifications
 <div>
- 
     <img src="https://img.shields.io/badge/-Google%20Cybersecuirty%20Certificate-blue?style=for-the-badge&logo=Google" />
 </div>
 
